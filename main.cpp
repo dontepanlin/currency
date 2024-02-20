@@ -6,5 +6,6 @@
 int main()
 {
     std::cout <<  convert(0.0) << '\n';
+    std::cout <<  convert(0.0) << '\n';
     return 0;
 }
